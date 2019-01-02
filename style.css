@@ -526,6 +526,7 @@ margin-bottom:96px;
     border: none;
     outline: none;
     background: transparent;
+	display:none;
 }
 .slick-prev:hover,
 .slick-prev:focus,
